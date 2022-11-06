@@ -6,8 +6,5 @@
 
 
 ```
-
 $ git clone https://github.com/glaucia86/workshop-mean-serverless.git
-
-
 ```
